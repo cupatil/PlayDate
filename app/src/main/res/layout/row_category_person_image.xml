@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.playdate.Utils.RoundedImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/ivUserProfileIcon"
+    android:layout_width="60dp"
+    android:layout_height="60dp"
+    android:layout_centerVertical="true"
+    android:layout_marginLeft="8dp"
+    android:layout_marginRight="8dp"
+    android:scaleType="fitXY"
+    android:src="@drawable/wall01"
+    app:riv_corner_radius="60dp"
+    app:riv_oval="false" />
+

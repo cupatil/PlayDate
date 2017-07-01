@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_game"
+        android:icon="@drawable/chat_heart"
+        android:title=""
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu_camera"
+        android:icon="@drawable/chat_take_photo"
+        android:title=""
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu_gallery"
+        android:icon="@drawable/chat_gallery"
+        android:title=""
+        app:showAsAction="always" />
+
+</menu>
